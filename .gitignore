@@ -119,3 +119,4 @@ data/
 
 # The env setup file
 env.ps1
+env.sh

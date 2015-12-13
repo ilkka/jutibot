@@ -107,3 +107,15 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Other specifics
+# =========================
+
+# The virtualenv
+.virtualenv/
+
+# The bot data
+data/
+
+# The env setup file
+env.ps1

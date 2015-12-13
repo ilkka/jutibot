@@ -1,0 +1,9 @@
+[Core]
+Name = FreshPots
+Module = freshpots
+
+[Documentation]
+Description = Come and get coffee
+
+[Python]
+Version = 3
